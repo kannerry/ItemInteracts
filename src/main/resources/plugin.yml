@@ -1,0 +1,9 @@
+name: ItemInteracts
+version: '${project.version}'
+main: swag.kanner.iteminteracts.ItemInteracts
+api-version: 1.19
+authors: [ kanner ]
+description: Custom Minecraft item interactions for Spigot
+commands:
+  ii:
+    description: "Base Command for ItemInteracts"
